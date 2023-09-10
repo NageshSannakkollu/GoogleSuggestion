@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.suggestion-list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 0px;
+}
+.suggestion-description {
+  font-size: 16px;
+}
+
+.arrow-image {
+  height: 20px;
+  width: 20px;
+}
+
+.arrow-button {
+  background-color: transparent;
+  border-width: 0;
+  cursor: pointer;
+  outline: none;
+}
