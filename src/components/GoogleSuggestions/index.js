@@ -43,6 +43,7 @@ class GoogleSuggestions extends Component {
               className="search-input"
               placeholder="Google Search"
               onChange={this.onChangeSearchInput}
+  value={searchInput}
             />
           </div>
           <ul>
